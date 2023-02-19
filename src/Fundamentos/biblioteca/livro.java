@@ -4,6 +4,7 @@ public class livro {
 private String titulo;
 private String autor;
 private int pagina;
+
 public String getTitulo() {
 	return titulo;
 }
